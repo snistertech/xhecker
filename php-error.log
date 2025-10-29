@@ -1,0 +1,10 @@
+[29-Oct-2025 04:51:55 UTC] PHP Warning:  require_once(telegram.php): Failed to open stream: No such file or directory in /home/u819636537/domains/kwarton.com/public_html/bothosted/ravenbot/bot.php on line 10
+[29-Oct-2025 04:51:55 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'telegram.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u819636537/domains/kwarton.com/public_html/bothosted/ravenbot/bot.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/u819636537/domains/kwarton.com/public_html/bothosted/ravenbot/bot.php on line 10
+[29-Oct-2025 04:51:56 UTC] PHP Warning:  require_once(telegram.php): Failed to open stream: No such file or directory in /home/u819636537/domains/kwarton.com/public_html/bothosted/ravenbot/bot.php on line 10
+[29-Oct-2025 04:51:56 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'telegram.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u819636537/domains/kwarton.com/public_html/bothosted/ravenbot/bot.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/u819636537/domains/kwarton.com/public_html/bothosted/ravenbot/bot.php on line 10
